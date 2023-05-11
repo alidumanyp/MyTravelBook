@@ -4,6 +4,7 @@ It is an application that uses google maps platform, where we can save the our f
    
    
 ## Used in the project
+- Google maps platform
 - SQLite
 - Room
 - RxJava
